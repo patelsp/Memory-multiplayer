@@ -1,3 +1,5 @@
+CREDITS - [IvanMPR](https://github.com/IvanMPR/Memory-multiplayer)
+
 # Memory-multiplayer
 <a href="https://multiplayer-memory-game.onrender.com" target="_blank">Live Demo</a>
 <br>
